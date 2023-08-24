@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissionRescue", "MissionRescue\MissionRescue.csproj", "{D30012DD-9855-4690-B59F-5246C4E42811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30012DD-9855-4690-B59F-5246C4E42811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30012DD-9855-4690-B59F-5246C4E42811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30012DD-9855-4690-B59F-5246C4E42811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30012DD-9855-4690-B59F-5246C4E42811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA03F69-AEEC-4DC6-90CA-98C80F45CA18}
+	EndGlobalSection
+EndGlobal
